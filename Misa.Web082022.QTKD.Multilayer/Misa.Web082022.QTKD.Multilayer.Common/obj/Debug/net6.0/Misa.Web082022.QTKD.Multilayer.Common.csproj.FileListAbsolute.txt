@@ -1,0 +1,42 @@
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.deps.json
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.pdb
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.AssemblyReference.cache
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.Resource.Resource.resources
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.GenerateResource.cache
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.AssemblyInfoInputs.cache
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.AssemblyInfo.cs
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.CoreCompileInputs.cache
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\refint\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.pdb
+D:\Desktop\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\ref\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.deps.json
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.pdb
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.AssemblyReference.cache
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.Resource.Resource.resources
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.GenerateResource.cache
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.AssemblyInfoInputs.cache
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.AssemblyInfo.cs
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\refint\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.pdb
+D:\WorkSpace\Misa\BaiTap_Fresher_Web082002\BTFersher_Web082022_QTKD\backend\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\ref\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.deps.json
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\bin\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.pdb
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.AssemblyReference.cache
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.Resource.Resource.resources
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.GenerateResource.cache
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.AssemblyInfoInputs.cache
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.AssemblyInfo.cs
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\refint\Misa.Web082022.QTKD.Multilayer.Common.dll
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\Misa.Web082022.QTKD.Multilayer.Common.pdb
+D:\WorkSpace\Misa\source_code\New folder\BTFersher_Web082022_QTKD\Misa.Web082022.QTKD.Multilayer\Misa.Web082022.QTKD.Multilayer.Common\obj\Debug\net6.0\ref\Misa.Web082022.QTKD.Multilayer.Common.dll

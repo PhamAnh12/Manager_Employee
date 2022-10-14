@@ -1,0 +1,6 @@
+.btn-primary:hover{
+    background-color: var( --hover-color);
+}
+.btn-extra:hover{
+    background-color:#d2d3d6 ;
+}

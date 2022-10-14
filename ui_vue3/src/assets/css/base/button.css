@@ -1,0 +1,28 @@
+.container-button{
+   width: 150px;
+
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--border-radius);
+    height: var(--height-button); 
+    min-width: 80px;
+    line-height: 0px;
+    cursor: pointer;
+    padding: 10px 16px;
+    outline-color: rgba(0, 0, 0, 0.4);
+    font-weight: 500;
+    font-family: GoogleSans-Medium ;
+    
+}
+.btn-primary{
+    color: var(--white-color);
+    background-color: var(--primary-color);
+}
+.btn-extra{
+    color: #1F1F1F;
+    border: 1px solid #E6E6E6;
+    
+}

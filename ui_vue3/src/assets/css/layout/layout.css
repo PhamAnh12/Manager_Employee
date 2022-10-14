@@ -1,0 +1,35 @@
+@import url(../layout/navbar.css);
+@import url(../layout/header.css);
+@import url(../layout/content.css);
+#app{
+ height: 100vh;
+ width: 100%;
+ min-width: 1024px;
+ display: flex;
+}
+.navbar{
+   height: 100%;
+   background-color: var( --bg-navbar-color);
+   border: 1px solid var( --bg-navbar-color);
+   height: 100vh;
+   overflow-y: auto;
+   width: 200px;
+   float: left;
+}
+
+.main{
+   width: calc(100% - 200px);
+}
+.header{
+   height: 56px;
+   width: 100%;
+   display: flex;
+}
+.main-content{
+   height: calc(100% - 56px);
+   width: 100%;
+   background-color: #f1f1f1;;
+   padding-top: 16px;
+   padding-left: 24px;
+   padding-right: 24px;
+}

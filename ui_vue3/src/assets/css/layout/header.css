@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    box-shadow:  3px 0px 0px rgba(23,27,42,0.059);
+    padding: 16px 16px 16px 24px; 
+    border-bottom: 1px solid var( --border-table-color);
+}
+.header-title{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.header-option{
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+    cursor: pointer;
+    height: 36px;
+}
+.header-option-text{
+    margin-right: 6px;
+    font-weight: 600;
+}
+.header-account{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ cursor: pointer;
+} 
+
+.account-container{
+    display: flex;
+    align-items: center;
+    margin-left: 22px;
+    justify-content: space-around;
+}
+.account-img{
+    border-radius: 32px;
+}
+.account-text{
+  padding-left: 6px;
+  font-weight: 600;
+  margin-right: 6px;
+}

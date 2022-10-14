@@ -1,0 +1,82 @@
+@import url(./controler/display.css);
+@import url(./controler/hove.css);
+@import url(./controler/widthHeight.css);
+@import url(./base/icon.css);
+@import url(./base/button.css);
+@import url(./base/input.css);
+@import url(./base/checkbox.css);
+@import url(./base/radio.css);
+:root {
+  --primary-color: #2ca01c;
+  --hover-color: #35bf22;
+  --bg-navbar-color:#393a3d;
+  --bg-navbar-hover-color:rgb(57, 58, 61,0.08);
+  --white-color: #ffffff;
+  --border-color: #E0E0E0;
+  --border-table-color: #c7c7c7;
+  --tr-hover-color: #E6F2FF;
+  --layout-color: rgba(0, 0, 0, 0.35);
+  --bg-click-color: #CCE4FF;
+  --error-color: #E61D1D;
+  --item-hover-color: #f8f8f8;
+  --scrollbar-thumb-hover: #7C869C;
+  --background-color: #ffff;
+  --function-text-color: #0075c0;
+  --height-button: 36px;
+  --border-radius: 4px;
+  --height-input: 32px;
+  --growth-from: 0.7;
+  --growth-to: 1;
+}
+
+body {
+  color: #1f1f1f;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+  font-family:GoogleSans-Regular ;
+}
+
+@font-face {
+  font-family: GoogleSans-Regular;
+  src: url(../fonts/notosans-regular.2cb88a13.woff2);
+}
+
+@font-face {
+  font-family: GoogleSans-Medium;
+  src: url(../fonts/notosans-semibold.df3e6dc4.woff2);
+}
+
+::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #bbb;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+@keyframes growth {
+  from {
+    transform: scale(var(--growth-from));
+  }
+
+  to {
+    transform: scale(var(--growth-to));
+  }
+}

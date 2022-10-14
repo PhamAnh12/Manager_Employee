@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Misa.Web082022.QTKD.Multilayer.Common\Misa.Web082022.QTKD.Multilayer.Common.csproj" />
+    <ProjectReference Include="..\Misa.Web082022.QTKD.Multilayer.DL\Misa.Web082022.QTKD.Multilayer.DL.csproj" />
+  </ItemGroup>
+
+</Project>
